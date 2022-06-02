@@ -6,7 +6,7 @@ Welcome to My Decision Tree notebook!
 
 You can download the file and see the notebook in your own jupyter notebooks
 
-To look at right now - just use this link: http://nbviewer.org/github/DanWaldman/LinearRegression/blob/main/LinearRegressionNotebook.ipynb
+To look at right now - just use this link: http://nbviewer.org/github/DanWaldman/DecisionTree/blob/main/DecisionTreeNotebook.ipynb
 
 # Context
 This Decision Tree predicts if a mushroom is Edible or Poisonous.
